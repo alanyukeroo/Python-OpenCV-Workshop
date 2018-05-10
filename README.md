@@ -18,6 +18,7 @@
 
 ![Copy file cv2.py](./media/README/copy.png)
 ![Paste file cv2.py](./media/README/paste.png)
+
 **STEP 5** - Verifikasi
 ![Verifikasi](./media/README/verifikasi1.png)
 ![Verifikasi](./media/README/verifikasi2.png)
