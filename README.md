@@ -13,7 +13,8 @@
 - Cari file cv2.py
 - file cv2 bisa dicari pada - C:\opencv\build\python\2.7\x64\
 **STEP 4**
-- Salin file __cv2.py__ ke Instalasi library dimana package anaconda di instal
+- Salin file __cv2.py__ ke Instalasi library dimana package anaconda di install
+
 ![Copy file cv2.py](./media/README/copy.png)
 ![Paste file cv2.py](./media/README/paste.png)
 **STEP 5** - Verifikasi
