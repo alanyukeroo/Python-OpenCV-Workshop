@@ -2,8 +2,9 @@
 - Pergi ke https://www.anaconda.com/download/
 - Pilih versi python 2.7 / 3.5 (workshop ini menggunakan 2.7)
 - __TEST Windows__ - Buka CMD dan ketikkan :
-    - jupyter notebook
-    
+'''sh
+jupyter notebook
+'''    
 **STEP 2** - Download dan Install OpenCV
 - Pergi ke: https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.13/
 - Download versi terbaru dari opencv 2.4.13
