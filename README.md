@@ -10,5 +10,7 @@
 ![Verifikasi](./media/README/verifikasi1.png)
 ![Verifikasi](./media/README/verifikasi2.png)
 
-    
+ **STEP 4** - Clone project
+ Jangan lupa clone projek ini, bisa menggunakan git 
+ "git clone https://github.com/alanyukeroo/Python-OpenCV-Workshop/"
    
